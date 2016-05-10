@@ -1,6 +1,13 @@
 body {
-   background-image: url("http://thegraphicsfairy.com/wp-content/uploads/blogger/_CarNcodpCMA/TLcL7FPknTI/AAAAAAAAJZk/DmgotlMaR8A/s1600/req-tree-wide-graphicsfairy004.jpg");
+   background-image: url("http://thegraphicsfairy.com/wp-content/uploads/blogger/_CarNcodpCMA/TLcL7FPknTI/AAAAAAAAJZk/DmgotlMaR8A/s1600/req-tree-wide-graphicsfairy004.jpg") ;
     background-repeat:no-repeat;
     background-size:80%;
-    background-position:center top;
+    background-position:center bottom;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
     }
+
+.title {
+    text-decoration-color: aqua;
+}
